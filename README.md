@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Install
 This project uses node and npm. Go check them out if you don't have them locally installed.
 
-### $ npm install 
+#### $ npm install 
 
 ## Available Scripts
 
