@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Install
+This project uses node and npm. Go check them out if you don't have them locally installed.
+
+### $ npm install 
+
 ## Available Scripts
 
 In the project directory, you can run:
