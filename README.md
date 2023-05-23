@@ -11,6 +11,7 @@ iii. Show icons corresponding to different weather conditions.
 iv. Responsive design for mobile and desktop devices.
 
 ##Installation
+
 ###Clone the repository:
 ```
 git clone https://github.com/Mohit-100niii/WeatherApp-React.git
