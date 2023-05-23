@@ -10,6 +10,7 @@ iii. Show icons corresponding to different weather conditions.
 
 iv. Responsive design for mobile and desktop devices.
 
+
 ##Installation
 
 ###Clone the repository:
