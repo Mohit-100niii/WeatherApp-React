@@ -16,6 +16,11 @@ A Weather application built with React to display weather information for a give
 git clone https://github.com/Mohit-100niii/WeatherApp-React.git
 ```
 
+## Navigate to the project directory:
+```
+cd react-weatherbooth
+```
+
 
 
 
