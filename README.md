@@ -1,5 +1,5 @@
 ## WeatherBooth-React Weather Application
-A Weather application built with React to display weather information for a given city.
+A Weather application built with React and Taiwind CSS to display weather information for a given city.
 
 ## Features
 
