@@ -30,6 +30,15 @@ npm install
 - Obtain an API key from OpenWeatherMap.
 - Create a .env file in the root directory of the project.
 - Add the following line to the .env file, replacing YOUR_API_KEY with your actual API key:
+```
+REACT_APP_API_KEY=YOUR_API_KEY
+```
+
+## Start the development server:
+```
+npm start
+```
+
 
 
 
