@@ -38,7 +38,13 @@ REACT_APP_API_KEY=YOUR_API_KEY
 ```
 npm start
 ```
+## Technologies Used
+- React
+- Taiwind CSS
+- Fetch API
+- OpenWeatherMap API
 
-
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 
