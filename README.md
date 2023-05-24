@@ -12,14 +12,7 @@ A Weather application built with React to display weather information for a give
 
 1. Clone the repository:
 
-   ```
-git clone https://github.com/Mohit-100niii/WeatherApp-React.git
-
-
-##Installation
-
-###Clone the repository:
-```
+ ```
 git clone https://github.com/Mohit-100niii/WeatherApp-React.git
 ```
 
